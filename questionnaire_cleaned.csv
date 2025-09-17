@@ -1,0 +1,101 @@
+order_id,baldness_type,grade,since_when_hair_fall_out,how_much_hair_falls,family_baldness,suffer_stress,have_depression,rest_enough,eating_disorder,pregnancy,_sexual_dysfunction,contact_tox_job,caffeine_hypersensitivity,hypersensitivity,take_testosterone,disease,cholesterol_level,hemogoblin_level,hematocrit_level,red_blood_cells_size,tsh_level,t3_level,t4_level,alopecic_plaques,scalp_condition,_list_medications_and_supplements
+390e48e0-6066-41f3-ab80-1f56ccbc5831,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+454ea0af-296a-4922-9720-505f8e817d16,Androgenic alopecia,Frontal,+1,little bit,none,true,false,true,None,false,"",false,false,None,false,Anemia,normal,normal,normal,low,normal,normal,normal,false,None,"Magnesium, iron, multi vitamin, hair peptide gummies"
+46eb0ce5-8252-4018-b834-03477e4d3480,"",1B,+1,a lot,parents,true,false,true,None,false,"",false,false,None,false,None,normal,normal,low,normal,normal,normal,normal,false,None,"500mg Leviteracetam, (daily).  Collagen, protein, multivitamins (irregularly) "
+7cea99b4-5ddc-4fd9-82ec-d04afaadf942,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+1b368e38-ee7c-4dc1-87ef-3edf2d3147c2,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+43f89ac4-b4b4-458a-8dc2-374967b448a2,"",IV,+1,little bit,parents,true,false,false,None,false,false,false,false,None,false,Mental Health Condition/Psychological Disorder,high,normal,normal,normal,normal,normal,normal,false,None,Lithium
+27a887af-77b0-4db7-beb7-66fd6d71305c,"",1B,+1,a lot,none,true,true,false,None,false,"",false,false,None,false,"",normal,normal,low,normal,normal,normal,normal,false,Dandruff,"Vyvanse, lamictal, vibryd, ozempic"
+89947787-27be-495f-86d9-14fe0c28ea7b,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+14233ab4-8aff-4ad5-9635-ed66087ad425,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+1c0eae7f-5454-4aa2-96bf-9041a5990b97,"",IV,+1,little bit,parents,true,true,true,None,false,false,false,false,None,false,"",normal,normal,normal,normal,normal,normal,normal,false,None,"Lexapro, finasteride, minoxidil, Nutrafol (otc)"
+87b69731-53a5-4410-8bd1-cb4418695416,"",II,-1,a lot,none,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,None
+9fb2d14b-e7ac-4b43-90f1-b59154f9bac5,"",III,+1,little bit,none,false,false,true,None,false,false,false,false,Dutasteride,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,No
+87aff807-dfe7-4d02-89a4-dcaaee9a0341,"",III,+1,little bit,siblings,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+89fba54a-cef9-4748-bde4-bf4d2effbf17,"",IV,+1,a lot,none,false,false,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+f4a5ddd2-f7ae-4552-9707-f794067f8d30,"",III,+1,little bit,siblings,true,false,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+38738115-e83b-4058-a0cc-7c9ac3aebd6f,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+81043fe9-7afc-4c29-abe0-24d993add3da,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+8e9a8544-7a0b-4fba-8d42-96cf19983a4c,"",IV,+1,little bit,none,true,false,true,None,false,false,false,false,"",false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,"Toga ali, fadogoa, nmn, reservatrol"
+782cffbc-7c43-4eae-9a56-15b6f2d6ad3c,"",1B,+1,a lot,both,true,false,true,None,false,"",false,false,None,true,Hypothyroidism,normal,normal,normal,normal,normal,low,normal,false,None,"HRT, Tirosint 188 mcg, liothyronine 32.5 mcg, Montelukast, Adair inhaler "
+67ade17b-864d-4b23-987f-4e16f65ed694,"",1B,none,little bit,none,true,true,false,None,false,"",false,false,None,false,Endometriosis,normal,normal,normal,normal,normal,normal,normal,false,None,None
+1dc42c18-db2c-4dc8-a01f-7315445eb8e6,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+24de2d6b-f4e4-4a7d-8f19-839289899ff6,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+20e1b837-dc42-471a-b339-37caf83091ad,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+30f862a1-dbd0-4896-b472-1152b3c95fff,"",II,none,nothing,parents,false,false,true,None,false,false,false,false,None,false,None,high,normal,normal,normal,normal,normal,normal,false,None,"Fenofibrate, ezetimibe"
+33800c6b-f2a2-4c98-a82d-f0c0e91fa8bb,"",Vertex,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Glycopyrrolate, minoxidil, Finasteride, tirzepitide, creatine, biotin"
+2268f0ea-504c-4aec-a4b9-7c0c18c1d7ba,Androgenic alopecia,Vertex,+1,a lot,parents,false,false,true,None,false,true,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,Minoxidil Topical Solution 5% USP
+05b3c563-e3b9-4ad5-a016-802b579d1b47,"",VI,+1,little bit,parents,true,true,false,None,false,false,false,false,None,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,"testosterone, mounjaro prescription, D, Calcium, Magnesium, Zinc, Potassium, CoQ10, b complex, pumpkin seed oil"
+1d00cc7b-2784-49ee-821b-370611e70dbd,"",Vertex,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,No
+dec96f2b-f573-4886-91b5-05d112582d1e,"",1C,+1,little bit,both,false,false,false,None,false,false,true,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,""
+92ebfb14-f472-4fc9-b9c9-5031d8cd2fd2,"",IV,+1,little bit,both,true,false,false,None,true,false,false,false,None,false,None,high,normal,normal,normal,normal,normal,normal,false,"Psoriasis,Dandruff",None.
+68057dc5-b15b-4c7c-b07f-3efd9dad8b11,"",I,-1,little bit,none,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,"",normal,false,None,Tazarotene cream
+984a1f37-3872-45b5-bdfc-6fd166be94f2,"",V,+1,nothing,parents,false,false,false,None,false,true,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+121d15c4-b2cf-45ed-9785-1151cb63755b,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+e524e220-4283-4a1d-81d4-d14fc731c56a,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+0fffc49f-a002-4c5b-86db-1f557600748a,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+784693d7-c042-4648-a973-5a7e9a4b329e,"",V,+1,little bit,none,true,false,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+272cd836-4490-4fc5-a4c6-f96b1016913c,"",I,-1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+f6a448d8-479d-4e4b-ab42-261cd2ea99d9,"",V,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,Vascepa
+145504b1-bee3-4680-82fd-b593a6b7067f,"",IV,+1,a lot,parents,true,false,true,None,false,false,false,false,None,false,"",normal,normal,normal,normal,normal,normal,normal,false,None,None
+180f79b0-5ac2-46e8-b5c8-f53471dd76f1,Androgenic alopecia,Vertex,+1,little bit,parents,true,true,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Finasteride, Citalopram, Buspirone, Minoxodil (tablet), Multivitamin, Biotin, Fish Oil, Vitamin D3, Vitamin E, B12"
+b324962b-49c1-4d77-a130-8c5060a9d33b,"",Vertex,+1,little bit,both,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,Hims- chewable: see below
+89cc06a4-34a2-4a6f-bcf8-56149df99a77,"",IV,none,nothing,parents,false,false,true,None,false,false,false,false,None,false,Diabetes,normal,normal,normal,normal,normal,normal,normal,false,None,"Toujeo, metformin,Farxiga,Omeprazole,Atorvastain,Mounjaro,BluePrint Longevity Mix and stack of other vitamins from BluePrint"
+e1450189-3490-4e98-a7f8-76403e00f2ac,Androgenic alopecia,III,+1,little bit,siblings,true,false,true,None,false,false,false,false,None,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Montelukast, testosterone cyp, finasteride, minoxidil, omeprezole"
+ec3dbc36-b009-44ab-aecf-18897381086c,"",Vertex,+1,little bit,none,true,true,true,None,false,true,false,false,None,false,Mental Health Condition/Psychological Disorder,normal,normal,normal,normal,normal,normal,normal,false,"Psoriasis,Dandruff","Lexapro, adderall "
+769c8afb-7474-4b9e-beb3-ff5a1a3c880c,"",1A,+1,a lot,parents,true,false,true,None,false,"",false,false,None,false,None,high,normal,normal,normal,normal,normal,normal,false,None,None
+30966f58-2aaa-49f5-9d6b-36873050e99d,,,,,,,,,,false,,,,None,,None,,,,,,,,,None,
+75a32e69-7558-4791-a836-674c2a58a4c8,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+997a8d4a-d57f-4da9-b36f-4c86d735cb10,"",1A,+1,little bit,both,true,false,true,None,false,"",false,false,None,false,Autoimmune diseases,normal,normal,normal,normal,normal,normal,normal,false,None,"Furosemide, pantoprazole, mycophenolate, sildenfil"
+13b80532-9beb-46f9-94a9-4b9487902581,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+3e513d14-b180-4a32-98cf-215410813bdb,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+32162d0c-0e5b-4608-bc40-43e91ebbaacc,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+d59f7dac-9588-4eb7-bad5-0f26dd019d0f,"",IV,+1,little bit,parents,true,true,false,None,false,false,false,false,None,false,Autoimmune diseases,normal,normal,normal,normal,normal,normal,normal,false,Seborrheic dermatitis,None
+a67d1bbd-61fe-4534-ada6-17ebb22b161d,"",IV,+1,little bit,siblings,false,false,true,None,false,false,false,false,None,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,Finasteride
+ab1b6ba8-976f-4f92-8d74-ccfc5aca38d9,"",III,+1,a lot,siblings,true,false,true,None,false,false,false,false,Minoxidil,false,"Autoimmune diseases,Liver Disease",normal,normal,normal,normal,normal,normal,normal,false,Dandruff,none
+51714cb7-9347-4fa9-8867-835c3414a63d,"",Vertex,+1,little bit,parents,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,None
+96518dbc-696f-4a6f-b4bd-3a45a63bb631,Androgenic alopecia,III,+1,a lot,both,true,true,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,"tongkat ali, boron, zinc/copper, magnesium, creatine, Vitamin D3+K2"
+db78cafd-3c01-4837-9592-c8ed9a594419,"",IV,+1,little bit,parents,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+22d793cc-76b7-4532-8da3-544ab0e27574,"",Frontal,+1,a lot,both,true,true,false,None,false,"",false,false,None,false,Mental Health Condition/Psychological Disorder,low,normal,normal,normal,normal,normal,normal,false,None,"Bryan Johnson Blueprint stack )just started), Prazosin 4 mg daily, fluoxetine 60 mg daily, Abilify 10 mg daily, yes"
+8b102250-f781-46c2-a7eb-f9bbae95d764,"",IV,+1,a lot,both,true,true,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Blueprint, theracurmin, creatine, methylguard, garlic, Omega 3, cacao, reishi, mag glycinate"
+01cb1e9c-ae27-48f6-82dc-e267f2e17dc5,"",Vertex,+1,little bit,parents,false,false,true,None,false,false,false,false,Finasteride,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Testosterone, t4"
+d41de697-3e83-4953-806d-7eccdb3bfa35,"",1B,-1,a lot,both,true,false,true,None,false,"",false,false,None,false,Polycystic ovarian syndrome (PCOS),normal,normal,normal,normal,normal,normal,normal,false,None,"Nutrafol, Vitamin B-12, Women’s Multi"
+7f494f94-0305-40ad-b0a4-53500d175331,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+50fd2007-9761-48f5-9465-e05dca5e3a46,"",VI,+1,a lot,parents,false,false,true,None,false,false,false,false,None,false,None,low,normal,normal,normal,low,normal,normal,false,None,Synthroid 
+0d89f28a-49a1-4d69-a4af-bfcf8c5ac88e,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+762c448d-03e2-42d2-a85e-52531f2cd407,Androgenic alopecia,Frontal,+1,a lot,both,true,false,true,None,false,"",false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,None
+58510a4e-18ef-4ae4-85d0-f7da89aabf4e,"",Frontal,+1,a lot,parents,true,true,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Nutrafol, d3, zinc"
+0641d8af-eafc-48db-a5ab-3266a946c805,"",2A,+1,a lot,parents,true,false,true,None,false,"",false,false,None,false,"",high,normal,normal,normal,normal,normal,normal,false,None,"estrogen, progesterone, minoxidil, finasteride"
+59322904-0935-4f95-8873-b5e794bb762e,"",I,none,little bit,parents,false,false,true,None,false,false,false,false,None,false,Hypothyroidism,normal,normal,normal,normal,low,normal,normal,false,None,"Zinc, vitamin d, magnesium, taurine, copper"
+c07e395b-952a-43b3-998d-bc6091142510,Androgenic alopecia,VI,none,nothing,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,Dhea 25mg; CoQ10 100mg; Tadalifil 5mg
+bbca8f1a-ba9f-4901-a038-f3bb7b89d1ae,Androgenic alopecia,Vertex,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,"Dandruff,Seborrheic dermatitis",Oral Finasteride 1 mg
+20f5d170-38f0-4ca9-806f-53d5467a7016,"",V,+1,nothing,both,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+26a5856a-259b-4c19-96bf-4e4d6482d7bd,"",III,-1,little bit,none,true,false,true,None,false,false,false,false,None,false,Hypertension,low,normal,normal,normal,normal,normal,normal,false,None,Losarten 100mg for Hypertension
+94cb12c5-2d37-4b31-ba60-960df224cc32,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+30dacf86-29c5-41c0-a426-c1a70cd69c8d,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+4bfb683a-e540-4bdc-a70e-7bb45873eded,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+ee91418d-a006-4ca2-a6e8-e33fc983ece9,"",III,+1,little bit,parents,false,false,false,None,false,true,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,"Minoxidil, ELIQUIS"
+a4008f91-cd2d-42ab-9cef-113ca9ac4597,"",IV,+1,little bit,siblings,false,false,true,None,false,false,false,false,"",false,Hypertension,normal,normal,normal,normal,normal,normal,normal,false,None,"Propranolol 60 MG, Tadalafil 2.5 MG, & Amlodipine, 5 MG daily.   Supplements:  fish oil, fiber blend."
+67c90a9c-b9c4-4d2e-9d64-b36f0d9cfc90,"",V,+1,little bit,parents,true,false,true,None,true,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,None
+c3052e7e-8d79-4a1d-9518-2629c31e6056,"",I,none,nothing,none,true,true,true,None,false,false,false,false,None,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Testosterone, cialis, telmisartan, ezetimibe "
+fa342421-2144-44eb-be08-346f05dddf0f,Androgenic alopecia,VI,+1,little bit,both,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Minoxidil, biotin"
+c98b41bf-9693-4931-8395-7d50a4b2b39c,"",1C,+1,a lot,none,true,true,true,None,true,"",false,false,None,false,"Hypothyroidism,Polycystic ovarian syndrome (PCOS)",high,normal,normal,normal,low,normal,normal,false,None,"Levothyroxine, venlafaxine, omeprazole, prenatal vitamin, nutrafol"
+1eb2fbd9-9585-4245-b6d9-65fad6c31df6,"",III,+1,little bit,both,true,false,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Vitamin Code Men Multi Vitamin, Nordic Naturals Omega 3\'s"
+d68717cb-773f-45dc-a833-bfc3c5902d1f,"",I,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,Topical Tretinoin 0.1% applied to the face for acne every night. 
+ddf1d7ac-3370-4c1a-a3bf-b06177c2d3cc,"",VI,+1,little bit,parents,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,Dandruff,"Creator, tadalifil, descovy "
+5d8970db-3eda-40b4-a208-734fd990991f,"",IV,+1,a lot,none,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,Finasteride
+e13e6f17-4487-4cb4-b392-0146fe8a2150,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+0f791c09-197d-470c-bba6-7898bbfb9dca,"",II,+1,a lot,none,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+e24c9117-0bc2-4636-8ea5-3ef9f77fffd0,"",V,+1,little bit,siblings,true,false,true,None,false,false,false,false,"",false,Hypertension,normal,normal,normal,normal,normal,normal,normal,"",Dandruff,""
+a2037ef7-d00b-400a-a999-542913ae29d5,"",I,"","","","","","","","","","","","","","","","","","","","","","","",""
+4b70db53-e001-46bb-bd21-9e8b80baafdf,"",VI,none,nothing,both,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,true,None,"Amino acids, collagen peptides, "
+d1205ed9-804e-42f3-b302-0086039fba64,"",III,+1,little bit,siblings,true,false,false,None,false,false,false,false,None,true,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Testosteron cypinate, "
+c643c757-16a9-464e-a510-9c14d4405acb,"",V,+1,little bit,both,true,false,false,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+c8b5daf7-cf98-45cc-8e64-f11f5e02e10d,"",1D,+1,little bit,parents,false,false,true,None,false,"",false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+518c8e0b-909d-4e0b-80e1-feb570fe3139,"",Vertex,+1,little bit,parents,true,false,true,None,false,false,false,false,None,false,None,high,normal,normal,normal,normal,normal,normal,false,None,none
+36cff904-9834-41b9-8671-ca536ab33674,"",V,+1,a lot,parents,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Descovy, Ritalin, and allopurinol"
+bd6af40b-85f1-489f-bcfa-e03031a5b387,Androgenic alopecia,III,+1,little bit,parents,false,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,none
+806a81b4-9035-47a7-bc12-34f954cc0cf7,"",III,+1,little bit,parents,false,false,false,None,false,false,false,false,None,true,Hypertension,normal,normal,normal,normal,normal,normal,normal,false,None,"25mg losartan, 10x optimize methylated daily vitamin, probiotic, NMN, trans-Resveratrol"
+fd74d561-e638-4ab1-b6b0-9d3dbbdaf7d5,Telogen Effluvium (seasonal),III,-1,little bit,both,false,false,false,"Vigorexia,Anorexia",false,false,false,false,"Finasteride,Tretinoin",false,"Hypothyroidism,Endometriosis",normal,normal,normal,normal,normal,normal,normal,false,Psoriasis,test
+bbf1dcb3-eca7-429d-a06c-394348faf6df,"",IV,+1,a lot,both,true,false,true,None,false,false,false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,false,None,"Used to take Propecia, now I take  Happy Head Super Capsule: Dutasteride & Minoxidil & Vitamin D3"
+4fecfe9a-cf5d-4160-9ea0-a88cc6de79fa,Alopecia areata,2B,+1,little bit,none,true,false,false,None,false,"",false,false,None,false,None,normal,normal,normal,normal,normal,normal,normal,true,Dandruff,"Metoprolol,Birth Control Pills"

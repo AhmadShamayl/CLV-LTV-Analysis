@@ -1,0 +1,101 @@
+orderId,billing_city,billing_state,shipping_city,shipping_state,total,cart_discount,is_parent_order,birth_year,topical_bottle_quantity,email_hash
+89fba54a-cef9-4748-bde4-bf4d2effbf17,Magnolia,AR,Magnolia,AR,258.7,0,1,1986,45,7VUG2gKJED2yagQyvSrZ2g==
+f4a5ddd2-f7ae-4552-9707-f794067f8d30,Owensboro,KY,Owensboro,KY,277.55,0,1,1959,45,U99MiKAnSI4zwIQuGGn6ug==
+999970c2-8f29-40fb-9245-421adbe0984a,Paragould,AR,Paragould,AR,194.03,64.67,1,2003,45,BCUWZk7tD1GjhDsmn1ktEw==
+772f8c17-55ba-4b30-a4fa-07e662523746,Bentonville,AR,Bentonville,AR,117.15,5.85,1,1988,45,q3LG02NOV2D4WGydwXdAtw==
+df5b3538-6d9a-4946-9141-17ad55fa8aad,Guaynabo,,Guaynabo,,130.2,247.8,1,1974,60,Da1f+/NqeFuwyi8V2g1kWg==
+7dba7856-af34-459d-b8f7-b86ebc47922e,Billings,MT,Billings,MT,194,0,1,1989,60,jmTcedLbllzCB36LWEALZw==
+d58d99e3-b49a-4353-b7be-b1c1ffc63cf7,Providence,RI,Providence,RI,89,129,1,1960,60,Rl39eyWHmZLsGodJWb8yrA==
+37724f18-1fcc-49f9-a96e-287e68e5730a,Dover,DE,Dover,DE,244,0,1,1983,60,92wNeTox/wkMYvk8zWSdgQ==
+8496bdb1-0a3c-4789-a058-0edf77bb507a,Bismarck,ND,Bismarck,ND,104.5,0,1,1967,45,MDpWH72n2PkEBdYocMo9iQ==
+5d40fd75-914e-48d9-92b0-92f5ad35b2fb,Bear,DE,Bear,DE,223.3,95.7,1,1948,30,rSQrMWSYjnbYqCK3PMSD0A==
+6b4f7c62-9b8f-47f3-8f7f-6bc079d0017c,Anchorage,AK,Anchorage,AK,223.3,95.7,1,1960,30,Sj3af8TAnkhMAoId9S5QvA==
+60954172-af4a-4524-874e-acd33834b2ee,Nome,AK,Nome,AK,249,129,1,1982,60,3ZURRv3Yl87tpbl9QowMjg==
+61450d6f-5383-464e-96bb-e0dfb2983f15,Dover-Foxcroft,ME,Dover-Foxcroft,ME,266.5,52.5,1,1984,30,SUGDE/Wqcs0Yhe5KivmQFQ==
+864d384b-fb83-4c43-b24b-d7a7b615ae48,Lexington,KY,Lexington,KY,168,210,1,1982,60,8QplMjdR1cHVm7ZtbfvfmQ==
+6d4030af-84bc-4b87-b313-d4381bc88739,West Des Moines,IA,West Des Moines,IA,236.6,101.4,1,1980,60,1Kw6zJqsidqjbnBBLm42FA==
+d766adf1-517e-432f-8625-fb669ca4a43c,Eagle River,AK,Eagle River,AK,134.4,33.6,1,1996,60,oy7G0AzOpRZJGmalzAlBqw==
+6dd97a5c-dfaa-498a-aecf-5c3e506f55a7,Blanco,NM,navajo dam,NM,244,0,1,1958,60,W1QZ7/b9WJXod5Fo7PMAGQ==
+e49dcf90-5f6e-4780-bb79-9dfb93b73589,Bristol,VT,Bristol,VT,159.5,159.5,1,1989,30,9fwmGMR1336D9RTHgezEnQ==
+1bf55ddd-d233-436f-9d63-219c50212acb,Iowa City,IA,Iowa City,IA,177,0,1,1994,60,o5DQ5cBWBeEUCmKUCUIc+w==
+4a88b593-bd84-40ed-821d-1cdd9de20437,Los Angeles,CA,Stowe,VT,319,0,1,1976,30,oh9x83+YMuPP2qaDIcW6VQ==
+62f3cc66-de39-4c6f-94fc-77e9292a067a,Rio Rancho,NM,Rio Rancho,NM,130.2,247.8,1,1977,60,+nxdDrL358X/FVyc0SVWMg==
+f6519821-13ca-416a-9716-863b2bb235be,Exeter,RI,Exeter,RI,159.5,159.5,1,2002,30,sRFo/4zty6bbSoO/aG0+RA==
+83a93a52-3475-4144-a5fa-6361944a2b18,Dover,NH,Dover,NH,244,0,1,1958,60,/nyNSva6ej3GmZw7qrvyDA==
+8cc8e7fb-4f7c-4c16-93f6-2498f57f236c,Bear,DE,Bear,DE,182.15,11.85,1,1992,60,sfcnQA8JQ/GbCtU4locZQg==
+d5e6f52d-b707-4c6c-a80e-0c96f9a284c8,Danville,KY,Danville,KY,194,0,1,1991,60,eN3sFjVScQ3fNLr9/r4Tpw==
+9e30c724-7f39-4272-b39c-e5b10bc2a63a,Kalispell,MT,Kalispell,MT,98,129,1,1980,60,kV/oZ9N2nPwvblLN8hrAhg==
+b9a627c8-a577-47a3-8ca1-3db13758082f,Jeffersontown,KY,Jeffersontown,KY,159.5,159.5,1,1974,30,qGVF1xHTQH+Ttf5FCeTUnQ==
+cf8c22c3-f266-40ac-8904-f3ed390c8e64,Sioux Falls,SD,Sioux Falls,SD,123,0,1,1987,45,StBVmWI/5ri0dNTg36kNMg==
+29308ff8-1da8-4bb7-9cf2-0b1a9d35fb4a,Morgantown,WV,Morgantown,WV,319,0,1,1990,60,DviRlCPY473EMBKItU1hWg==
+56fcb33f-cd04-4808-8ba3-6fcfb6486aed,Belden,MS,Belden,MS,130.2,247.8,1,1960,60,ICk9cKrb2wA9fhZQWWJp3g==
+e441fb54-65a3-4853-b6e8-ea166e9da234,Millsboro,DE,Millsboro,DE,166.2,110.8,1,1965,45,S17k7jsXMa8EafNQl4fEew==
+3e73a15a-1fa7-48b6-a242-20fc685bc1f9,Idaho Falls,ID,Idaho Falls,ID,184.2,122.8,1,1967,45,FLUR6Jfqv5Zz6E08kL7eKA==
+af0eba41-7c49-4f01-9f5a-be4d5d82446f,carlsbad,NM,carlsbad,NM,162.4,40.6,1,1958,60,Nf1nX9eJ+F0NsShch065kg==
+4c4d6c68-4391-4ea1-becf-110e32edc41e,Booneville,KY,Booneville,KY,243.6,104.4,1,1964,60,+V4/OUH3sms0Cfn43RKHHg==
+b6e944e9-d366-4ca1-a400-c36b89d42f59,Altoona,IA,Altoona,IA,249,109,1,1982,30,stegUaGC6Xv2slZ5nuDp+A==
+a1233e4b-877f-4fb3-adc0-f5252ca7ce50,Lenexa,KS,Lenexa,KS,46.9,20.1,1,1984,60,IGtS5Lqbzz3fdGATAXwAOA==
+75f0bf05-007b-46a3-b033-f49cb515b9d2,Jonesboro,AR,Jonesboro,AR,168,0,1,1969,60,hB9OZ77jOFi0OPM1j1dC/g==
+1ad88a1e-291f-4417-9b82-726bc4885dba,Moss Point,MS,Moss Point,MS,98,129,1,1983,60,e0Y4VJVUlrz0xHUQvHYgZg==
+6920327c-a8e3-4f91-b091-00023bc4fcd6,Riverdale,IA,Riverdale,IA,235.45,41.55,1,1973,45,tzu9ZN2tyg8aV7Upds8MiQ==
+8f883afc-c0e7-4b8b-9687-65415cc72ab8,Ocean Springs,MS,Ocean Springs,MS,266.5,52.5,1,1978,30,dAbHEqpqvcKiyG+R5hXGmQ==
+698741c2-a92d-4ebc-8680-d7e60d212925,Corvallis,MT,Corvallis,MT,98,179,1,1999,45,+dTeXuycckDcItzVHdWYFg==
+7f025c4a-44a5-4e3c-9e2a-0682cba328c1,Ankeny,IA,Ankeny,IA,98,129,1,1979,60,nYUIhX3YBjTf4pjgiHqF2g==
+87d9a5cd-2ad5-4c8c-b6a2-86b010b9a8c9,Kodiak,AK,Kodiak,AK,123,0,1,1981,45,YRgd9dAsm7cFmk1TiSM2mw==
+8f036a40-145f-4320-8c9d-d96c21d6de87,Providence,RI,Providence,RI,98,129,1,1967,60,hBvXp4hmgH+viw1ZvsuCEQ==
+26bd3ed0-b81b-48d6-9a18-dd49b8c98f1a,Big Sky,MT,Big Sky,MT,159.5,159.5,1,1966,30,tCVzjpO+M/PQ4gPNpUWPhg==
+1109f576-344f-4261-a9a8-9d78dc4c3f5a,Memphis,TN,Bridgeport,WV,123,0,1,1975,45,JGo9LGNwzPpOEZrsX8Wbpg==
+6448cb41-6b68-407d-8dd7-053eb4e8724f,Tylertown,MS,Tylertown,MS,219.6,24.4,1,1967,60,FWrfMU0JCEIeX5izbqJMUA==
+f2d338fb-cc1d-4d7e-936d-4ac83bfc120d,Rogers,AR,Rogers,AR,168,0,1,1974,60,rW6My8msTURnIG8y2owBbA==
+c0e46d32-94e6-4f6d-b068-e1c9583fdcf4,Star,ID,Star,ID,117.15,5.85,1,1992,45,9BvgwpZWlQU2Z/zsi48T7w==
+c91c9f8b-6e56-4d26-b3fc-61bd304bcbf8,Benton,AR,Benton,AR,98,129,1,1985,60,rxKUqfG/5W5tbL1OHcMLTQ==
+8a285327-c79c-4fcb-ace4-4efad1a0b077,Coralville,IA,Coralville,IA,338,0,1,1985,60,xkdUwdTox8g/TJnm6cGT0Q==
+c3bd7fae-9a6c-4a29-ae6e-0a53e435c563,Tucumcari,NM,Tucumcari,NM,244,0,1,1953,60,PMZ/n6Iohco2bC3VJJoCzg==
+ce29eb87-c7a4-4a0d-9713-74e0ff9dd06a,Portland,ME,Portland,ME,104.5,0,1,1988,45,f1q6icbmBagGHtaCqWFUVw==
+11150fc1-a748-4737-93de-5b1efa4fd4b9,Manchester,NH,Manchester,NH,104.5,0,1,1995,45,SxVGVceDsBZznnzkYE1nFg==
+35194129-5b03-4e96-b141-670e9901009d,Owensboro,KY,Owensboro,KY,184.2,122.8,1,1994,45,j8o56svqtOmpWdh9uu6pUg==
+9c8211b5-feca-46df-997e-8c8ced0f0702,Dover,NH,Dover,NH,194,0,1,1991,60,QFMWZNR+AYxcCRQDhuFDzg==
+8811d9a2-30e9-4c7d-8500-da525889a6ed,Mission Hills,KS,Mission Hills,KS,98,129,1,1983,60,qziWFPRsQAEgwqaLf4vcEg==
+36a5f3aa-a366-44d9-8a19-37812b040f3b,Eagle River,AK,Eagle River,AK,203,0,1,1968,60,Dpy+XGQqzRkLe+DxV58OtA==
+670604c1-d43d-4837-809a-3dfcc77f69c8,sioux falls,SD,Sioux Falls,SD,111,166,1,1981,45,wOarCjwx0swtxGCv18l9Ug==
+ffcc4abe-a793-46fa-ae80-fe84d77bfae5,Warwick,RI,Warwick,RI,123,0,1,1992,45,/4zpr8TCX5BysCP8IJIEJw==
+095b7ce9-41cc-454f-8336-b093ef142c10,Norwich,VT,Norwich,VT,159.5,159.5,1,1969,30,jhwV/06ZQMnEBzHFg0UlyA==
+a7688c3a-cbe0-4ab0-84d2-d0b9beafea88,Lincoln,NE,Lincoln,NE,117.15,5.85,1,1983,45,p29WdcB9sMri7aGI5wUtLA==
+7f29eaa5-c1d9-4122-a33a-93b71ba8b953,Lexington,KY,Lexington,KY,338,0,1,1984,60,WxRJUkznS8YsWF/HCpLRCQ==
+e0a8e4b9-cecd-48e7-9654-2641ff9fcae7,Provo,UT,Forest,MS,169,169,1,2005,60,v6F+AU/yuvc4eR9xjLYG4Q==
+eba2c992-3704-447d-83f3-ab143feb0465,Roswell,NM,Roswell,NM,236.6,101.4,1,1978,60,jQSjwnZypARCrfUxj33+EQ==
+9e876a7c-c38e-4579-a63a-59d361a20054,Topeka,KS,Topeka,KS,117.15,5.85,1,1995,45,MvqphAl33iz272gWn6DBiQ==
+b73497b4-f96e-4724-85ae-d0a0df22c786,Charleston,WV,Charleston,WV,188,15,1,1972,60,JiAWQ9oajcm7cA32hp3FaA==
+9b441cac-751d-4ee1-877e-4ac118b0672b,Albuquerque,NM,Albuquerque,NM,236.6,101.4,1,1972,60,wooB3/LL5cnKpc0y6RDrTw==
+70ad5409-e172-43f2-a6ac-3c5bb72abba9,Bedford,NH,Bedford,NH,168,210,1,1952,60,ASdViK/NrzwOy7tJr1BwiQ==
+e49e6c7a-d95f-4536-838d-91ab1ce58200,Tiffin,IA,Tiffin,IA,236.6,101.4,1,1988,60,5da7rRgSazrGG0b/ylLoeg==
+c55e52fd-71f9-4135-9c54-f6f38ba88b48,Cedar Rapids,IA,Cedar Rapids,IA,98,129,1,1979,60,6BtOwHSA1z6UdGmiSoBoQg==
+bba0fd88-35cf-4c0d-940d-9ed102c041fa,Coeur Dalene,ID,"Coeur d’alene,",ID,277,0,1,1966,45,b7BBFKEvVrOnu7vyENne6g==
+55793cdf-e7f4-4285-8af4-bbee5976409d,Olathe,KS,Olathe,KS,104.5,0,1,1985,45,UHOi47PjqGFmIIM4updnRA==
+c0eda795-9e79-4076-8e8f-4d9264d9e150,Corvallis,MT,Hamilton,MT,182.7,20.3,1,1970,60,BuU/Vtbs9svjkGvFOOpg+A==
+52e07247-6a4f-4fff-9a52-8cb02e486556,Smyrna,DE,Smyrna,DE,249,109,1,1970,30,bXYsqXkqU2B1d6C04u9nAA==
+061c6832-5479-488d-b662-b7c24702cde6,FPO,AP,FPO,AP,338,0,1,1989,60,bdtZ8YjbBEYSLmflDbJVug==
+4da70430-1512-4e05-a6ba-8e516bf27668,Charleston,WV,Charleston,WV,182.7,20.3,1,1977,60,vSPoBod9NSPcyRj6n9n5Ig==
+dd9114c5-3676-4d4c-9b9b-52b3704a65dd,Manchester,NH,Manchester,NH,266.5,52.5,1,1987,30,/IsVVJFSmnzzAa5MCdQrMQ==
+80fc0a3c-98c4-4056-94ec-2883e97d66d5,Conway,AR,Conway,AR,98,129,1,1974,60,IdvJ702kyrBXCVxWo7YQkg==
+cacbe1cb-047b-422b-a097-b9666011f814,Topsham,ME,Topsham,ME,223.3,95.7,1,1979,30,5ZZtJCqYN5l7ccTJ0yp9PA==
+16514b56-cbe3-445d-b15d-ecab06fb4465,Fairbanks,AK,Fairbanks,AK,177,0,1,1996,60,K9LL+JX4qwlue7TMw9zLug==
+bd98574f-4898-4d24-abab-507846152bd2,Santa Fe,NM,Santa Fe,NM,104.5,0,1,1969,45,NwaaX4pr6RyBT190bN5VkQ==
+2cdcc965-20d2-4292-98fc-e77c3d573686,Columbia Falls,MT,Columbia Falls,MT,236.6,101.4,1,1986,60,d9PyUfoX+2ypZ5Erzql56g==
+e615d918-dc7c-4870-8f07-fba6c08e5294,Fargo,ND,Fargo,ND,260.95,46.05,1,1974,45,NGML1H6QcojTZVVQ9QM+7g==
+6185d878-25bd-4030-b05d-c7d1831cffca,Adel,IA,Adel,IA,277,0,1,1992,45,DAdvIKPf/8CvRpzdmBmIuA==
+eee6e3f8-8318-4a33-ae55-b4031e137314,Omaha,NE,Omaha,NE,266.5,52.5,1,1983,30,geX2kcNaSfnJddPYNVrOdA==
+d3acf9e4-c3ac-4592-92ec-aa70ae82d663,Rogers,AR,Rogers,AR,223.3,95.7,1,1990,30,S7BwuNA5hAvJbjrOzRh5ow==
+b249c048-3876-4385-a05a-6d57bbf2ee9d,Bozeman,MT,Bozeman,MT,304.2,33.8,1,1987,60,EwcuhF/A/VP21Ix84XlFcg==
+127f5196-e1d3-468d-a85e-5beb914c8df7,Bennington,NE,Bennington,NE,203,0,1,1978,60,J/bdq4th0ygmusDqmKer9g==
+2d712a6a-6758-486e-ab6d-05c914851ea2,Versailles,KY,Versailles,KY,244,0,1,1967,60,S1yo4xZK0t5jyB+GT8u5Pg==
+dc58dd41-1d26-4f16-9e9b-f5a898fb9420,Burlington,VT,Burlington,VT,223.3,95.7,1,1976,30,mgkmYX5vpcL8mMkK1KwtAA==
+b0e163c6-3196-4820-bb67-f95ebe8557b9,Montpelier,VT,Nashua,NH,236.6,101.4,1,2002,60,offwjNY+E+u5I2TML1H4gQ==
+c556f249-2359-437b-8cc2-37458beb38f0,Anchorage,AK,Anchorage,AK,236.6,101.4,1,1961,60,qz+r4J1TsUVWOn4pP87DHQ==
+f8df4387-e11d-49ec-b794-3a7835f372ac,Jackson,MS,Jackson,MS,123,0,1,1962,45,lJIC4DF5AKQHBH6SZTXjfw==
+06dfdb45-19b6-430b-aa64-33c641655eda,Bozeman,MT,Bozeman,MT,177,0,1,1996,60,GSXx0Wy2L1MaHGIaE+iQGg==
+62d08573-f142-4696-9c3e-3c4cbf18e01f,Wheeling,WV,Wheeling,WV,98,129,1,1961,60,EaySlv77MisIccVnSZl8/Q==
+505fd0ab-a936-41e3-8672-0014ed2a0da0,Carter Lake,IA,Carter Lake,IA,159.5,159.5,1,1986,30,qoU+YwiySrm0LU32NvRTwQ==
+f9c28b83-17b0-4efa-940b-b3de68e1bbc2,ROGERS,AR,ROGERS,AR,98,129,1,1973,60,n0edHQgDdXIQ/GUasjWE0A==
+f5cc5cd0-7b7b-497c-affc-d12362527724,Hayden,ID,Hayden,ID,236.6,101.4,1,1987,60,sG+Op6b9AX+q+lKcySPlFA==
+cb26b92f-8290-4c3e-8992-1a2103205dcd,Jackson,MS,Jackson,MS,168,0,1,1975,60,jcByRaTbBaU/iKiJeB+vow==
